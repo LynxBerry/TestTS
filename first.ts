@@ -22,6 +22,7 @@ function nameBuild(firstname: string, lastname: string): string {
     
 }
 
+Startup.main();
 
 nameBuild("Steven", null)
 

@@ -17,5 +17,6 @@ var yourAdd = function (x, y) { return x + y; };
 function nameBuild(firstname, lastname) {
     return firstname + " " + lastname;
 }
+Startup.main();
 nameBuild("Steven", null);
 //# sourceMappingURL=first.js.map
